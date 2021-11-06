@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  padding: 5%;
+}
+a {
+  text-decoration-line: none;
+  color: black;
+}
+h1 {
+  text-align: center;
+  font-size: 100px;
+  border-bottom: 1px solid black;
+}
+.list {
+  text-align: left;
+  color: red;
+  font-size: 18px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+p.first {
+  margin-top: 1in;
+}
+footer {
+  text-align: center;
+}
+.roadmap {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.roadmap img {
+  width: inherit;
+  max-width: 100%;
+  height: auto;
+}
+ul.{
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
